@@ -32,5 +32,22 @@
             "image": "https://example.com/home-decor.jpg",
             "shopLink": "https://shop.example.com/home-decor"
         }
+    ],
+    "level3": [
+        {
+            "name": "กระเป๋าเป้เดินทาง",
+            "image": "https://example.com/backpack.jpg",
+            "shopLink": "https://shop.example.com/backpack"
+        },
+        {
+            "name": "นาฬิกาสมาร์ทวอช",
+            "image": "https://example.com/smartwatch.jpg",
+            "shopLink": "https://shop.example.com/smartwatch"
+        },
+        {
+            "name": "เซ็ตของตกแต่งบ้าน",
+            "image": "https://example.com/home-decor.jpg",
+            "shopLink": "https://shop.example.com/home-decor"
+        }
     ]
 }
