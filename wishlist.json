@@ -1,0 +1,36 @@
+{
+    "level1": [
+        {
+            "name": "หนังสือ 'การพัฒนาตัวเอง'",
+            "image": "https://example.com/book.jpg",
+            "shopLink": "https://shop.example.com/book"
+        },
+        {
+            "name": "หูฟังไร้สาย",
+            "image": "https://example.com/headphones.jpg",
+            "shopLink": "https://shop.example.com/headphones"
+        },
+        {
+            "name": "แก้วกาแฟดีไซน์สวย",
+            "image": "https://example.com/mug.jpg",
+            "shopLink": "https://shop.example.com/mug"
+        }
+    ],
+    "level2": [
+        {
+            "name": "กระเป๋าเป้เดินทาง",
+            "image": "https://example.com/backpack.jpg",
+            "shopLink": "https://shop.example.com/backpack"
+        },
+        {
+            "name": "นาฬิกาสมาร์ทวอช",
+            "image": "https://example.com/smartwatch.jpg",
+            "shopLink": "https://shop.example.com/smartwatch"
+        },
+        {
+            "name": "เซ็ตของตกแต่งบ้าน",
+            "image": "https://example.com/home-decor.jpg",
+            "shopLink": "https://shop.example.com/home-decor"
+        }
+    ]
+}
